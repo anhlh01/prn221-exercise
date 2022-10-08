@@ -5,15 +5,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Pages\CandidateProfileManagement\**" />
+    <Content Remove="Pages\CandidateProfileManagement\**" />
+    <EmbeddedResource Remove="Pages\CandidateProfileManagement\**" />
+    <None Remove="Pages\CandidateProfileManagement\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Remove="Pages\CandidateProfileManagement\" />
     <None Remove="Microsoft.VisualStudio.Web.CodeGeneration" />
     <None Remove="Microsoft.VisualStudio.Web.CodeGeneration.Design" />
     <None Remove="Microsoft.EntityFrameworkCore" />
     <None Remove="Microsoft.EntityFrameworkCore.SqlServer" />
     <None Remove="Microsoft.EntityFrameworkCore.Design" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Pages\CandidateProfileManagement\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DataAccess\DataAccess.csproj">

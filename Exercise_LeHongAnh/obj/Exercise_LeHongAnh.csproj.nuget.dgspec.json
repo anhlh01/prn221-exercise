@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lehonganh/prn221/Exercise_LeHongAnh/Exercise_LeHongAnh.csproj": {}
+    "D:\\PRN221\\demo-pe\\prn221-exercise\\Exercise_LeHongAnh\\Exercise_LeHongAnh.csproj": {}
   },
   "projects": {
-    "/Users/lehonganh/prn221/BusinessObject/BusinessObject.csproj": {
+    "D:\\PRN221\\demo-pe\\prn221-exercise\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lehonganh/prn221/BusinessObject/BusinessObject.csproj",
+        "projectUniqueName": "D:\\PRN221\\demo-pe\\prn221-exercise\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "/Users/lehonganh/prn221/BusinessObject/BusinessObject.csproj",
-        "packagesPath": "/Users/lehonganh/.nuget/packages/",
-        "outputPath": "/Users/lehonganh/prn221/BusinessObject/obj/",
+        "projectPath": "D:\\PRN221\\demo-pe\\prn221-exercise\\BusinessObject\\BusinessObject.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\PRN221\\demo-pe\\prn221-exercise\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/lehonganh/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,7 +48,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,26 +58,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/5.0.408/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/lehonganh/prn221/DataAccess/DataAccess.csproj": {
+    "D:\\PRN221\\demo-pe\\prn221-exercise\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lehonganh/prn221/DataAccess/DataAccess.csproj",
+        "projectUniqueName": "D:\\PRN221\\demo-pe\\prn221-exercise\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "/Users/lehonganh/prn221/DataAccess/DataAccess.csproj",
-        "packagesPath": "/Users/lehonganh/.nuget/packages/",
-        "outputPath": "/Users/lehonganh/prn221/DataAccess/obj/",
+        "projectPath": "D:\\PRN221\\demo-pe\\prn221-exercise\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\PRN221\\demo-pe\\prn221-exercise\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/lehonganh/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -117,7 +128,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -126,40 +138,45 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/5.0.408/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/lehonganh/prn221/Exercise_LeHongAnh/Exercise_LeHongAnh.csproj": {
+    "D:\\PRN221\\demo-pe\\prn221-exercise\\Exercise_LeHongAnh\\Exercise_LeHongAnh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lehonganh/prn221/Exercise_LeHongAnh/Exercise_LeHongAnh.csproj",
+        "projectUniqueName": "D:\\PRN221\\demo-pe\\prn221-exercise\\Exercise_LeHongAnh\\Exercise_LeHongAnh.csproj",
         "projectName": "Exercise_LeHongAnh",
-        "projectPath": "/Users/lehonganh/prn221/Exercise_LeHongAnh/Exercise_LeHongAnh.csproj",
-        "packagesPath": "/Users/lehonganh/.nuget/packages/",
-        "outputPath": "/Users/lehonganh/prn221/Exercise_LeHongAnh/obj/",
+        "projectPath": "D:\\PRN221\\demo-pe\\prn221-exercise\\Exercise_LeHongAnh\\Exercise_LeHongAnh.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\PRN221\\demo-pe\\prn221-exercise\\Exercise_LeHongAnh\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/lehonganh/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/lehonganh/prn221/BusinessObject/BusinessObject.csproj": {
-                "projectPath": "/Users/lehonganh/prn221/BusinessObject/BusinessObject.csproj"
+              "D:\\PRN221\\demo-pe\\prn221-exercise\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "D:\\PRN221\\demo-pe\\prn221-exercise\\BusinessObject\\BusinessObject.csproj"
               },
-              "/Users/lehonganh/prn221/DataAccess/DataAccess.csproj": {
-                "projectPath": "/Users/lehonganh/prn221/DataAccess/DataAccess.csproj"
+              "D:\\PRN221\\demo-pe\\prn221-exercise\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\PRN221\\demo-pe\\prn221-exercise\\DataAccess\\DataAccess.csproj"
               },
-              "/Users/lehonganh/prn221/Repository/Repository.csproj": {
-                "projectPath": "/Users/lehonganh/prn221/Repository/Repository.csproj"
+              "D:\\PRN221\\demo-pe\\prn221-exercise\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\PRN221\\demo-pe\\prn221-exercise\\Repository\\Repository.csproj"
               }
             }
           }
@@ -203,10 +220,17 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -215,26 +239,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/5.0.408/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/lehonganh/prn221/Repository/Repository.csproj": {
+    "D:\\PRN221\\demo-pe\\prn221-exercise\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lehonganh/prn221/Repository/Repository.csproj",
+        "projectUniqueName": "D:\\PRN221\\demo-pe\\prn221-exercise\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "/Users/lehonganh/prn221/Repository/Repository.csproj",
-        "packagesPath": "/Users/lehonganh/.nuget/packages/",
-        "outputPath": "/Users/lehonganh/prn221/Repository/obj/",
+        "projectPath": "D:\\PRN221\\demo-pe\\prn221-exercise\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\PRN221\\demo-pe\\prn221-exercise\\Repository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/lehonganh/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -258,7 +287,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -267,7 +297,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/5.0.408/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
