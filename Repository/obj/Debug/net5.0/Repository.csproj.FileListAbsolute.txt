@@ -1,0 +1,12 @@
+/Users/lehonganh/prn221/Repository/bin/Debug/net5.0/Repository.deps.json
+/Users/lehonganh/prn221/Repository/bin/Debug/net5.0/Repository.dll
+/Users/lehonganh/prn221/Repository/bin/Debug/net5.0/ref/Repository.dll
+/Users/lehonganh/prn221/Repository/bin/Debug/net5.0/Repository.pdb
+/Users/lehonganh/prn221/Repository/obj/Debug/net5.0/Repository.csproj.AssemblyReference.cache
+/Users/lehonganh/prn221/Repository/obj/Debug/net5.0/Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lehonganh/prn221/Repository/obj/Debug/net5.0/Repository.AssemblyInfoInputs.cache
+/Users/lehonganh/prn221/Repository/obj/Debug/net5.0/Repository.AssemblyInfo.cs
+/Users/lehonganh/prn221/Repository/obj/Debug/net5.0/Repository.csproj.CoreCompileInputs.cache
+/Users/lehonganh/prn221/Repository/obj/Debug/net5.0/Repository.dll
+/Users/lehonganh/prn221/Repository/obj/Debug/net5.0/ref/Repository.dll
+/Users/lehonganh/prn221/Repository/obj/Debug/net5.0/Repository.pdb

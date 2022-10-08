@@ -1,0 +1,15 @@
+/Users/lehonganh/prn221/DataAccess/bin/Debug/net5.0/DataAccess.deps.json
+/Users/lehonganh/prn221/DataAccess/bin/Debug/net5.0/DataAccess.runtimeconfig.json
+/Users/lehonganh/prn221/DataAccess/bin/Debug/net5.0/DataAccess.runtimeconfig.dev.json
+/Users/lehonganh/prn221/DataAccess/bin/Debug/net5.0/DataAccess.dll
+/Users/lehonganh/prn221/DataAccess/bin/Debug/net5.0/ref/DataAccess.dll
+/Users/lehonganh/prn221/DataAccess/bin/Debug/net5.0/DataAccess.pdb
+/Users/lehonganh/prn221/DataAccess/obj/Debug/net5.0/DataAccess.csproj.AssemblyReference.cache
+/Users/lehonganh/prn221/DataAccess/obj/Debug/net5.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lehonganh/prn221/DataAccess/obj/Debug/net5.0/DataAccess.AssemblyInfoInputs.cache
+/Users/lehonganh/prn221/DataAccess/obj/Debug/net5.0/DataAccess.AssemblyInfo.cs
+/Users/lehonganh/prn221/DataAccess/obj/Debug/net5.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/lehonganh/prn221/DataAccess/obj/Debug/net5.0/DataAccess.dll
+/Users/lehonganh/prn221/DataAccess/obj/Debug/net5.0/ref/DataAccess.dll
+/Users/lehonganh/prn221/DataAccess/obj/Debug/net5.0/DataAccess.pdb
+/Users/lehonganh/prn221/DataAccess/obj/Debug/net5.0/DataAccess.genruntimeconfig.cache
