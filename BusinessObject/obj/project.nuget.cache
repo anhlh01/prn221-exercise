@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tsBYLBnoIUOjSHAWkliWJ1ohU4yEmlulVTRoxVGh9236CGnDwgUgE58lETTrKygRNamQ4aGLfOkUMlQtLIC2vg==",
+  "dgSpecHash": "wjXjNeH+itRj+etvAw4+tzMskcGWBGczNRD2g6+pghkvIimQ6jX1DRL30w6BphPtxZEDw8nu9MvTbniqOrfN2Q==",
   "success": true,
-  "projectFilePath": "/Users/lehonganh/prn221/BusinessObject/BusinessObject.csproj",
+  "projectFilePath": "D:\\PRN221\\demo-pe\\prn221-exercise\\BusinessObject\\BusinessObject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

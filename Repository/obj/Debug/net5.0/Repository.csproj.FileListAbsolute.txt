@@ -10,3 +10,15 @@
 /Users/lehonganh/prn221/Repository/obj/Debug/net5.0/Repository.dll
 /Users/lehonganh/prn221/Repository/obj/Debug/net5.0/ref/Repository.dll
 /Users/lehonganh/prn221/Repository/obj/Debug/net5.0/Repository.pdb
+D:\PRN221\demo-pe\prn221-exercise\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\PRN221\demo-pe\prn221-exercise\Repository\bin\Debug\net5.0\Repository.dll
+D:\PRN221\demo-pe\prn221-exercise\Repository\bin\Debug\net5.0\Repository.pdb
+D:\PRN221\demo-pe\prn221-exercise\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+D:\PRN221\demo-pe\prn221-exercise\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN221\demo-pe\prn221-exercise\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\PRN221\demo-pe\prn221-exercise\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\PRN221\demo-pe\prn221-exercise\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\PRN221\demo-pe\prn221-exercise\Repository\obj\Debug\net5.0\Repository.dll
+D:\PRN221\demo-pe\prn221-exercise\Repository\obj\Debug\net5.0\refint\Repository.dll
+D:\PRN221\demo-pe\prn221-exercise\Repository\obj\Debug\net5.0\Repository.pdb
+D:\PRN221\demo-pe\prn221-exercise\Repository\obj\Debug\net5.0\ref\Repository.dll

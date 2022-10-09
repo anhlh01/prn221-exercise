@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lehonganh/prn221/DataAccess/DataAccess.csproj": {}
+    "D:\\PRN221\\demo-pe\\prn221-exercise\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "/Users/lehonganh/prn221/DataAccess/DataAccess.csproj": {
+    "D:\\PRN221\\demo-pe\\prn221-exercise\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lehonganh/prn221/DataAccess/DataAccess.csproj",
+        "projectUniqueName": "D:\\PRN221\\demo-pe\\prn221-exercise\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "/Users/lehonganh/prn221/DataAccess/DataAccess.csproj",
-        "packagesPath": "/Users/lehonganh/.nuget/packages/",
-        "outputPath": "/Users/lehonganh/prn221/DataAccess/obj/",
+        "projectPath": "D:\\PRN221\\demo-pe\\prn221-exercise\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\PRN221\\demo-pe\\prn221-exercise\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/lehonganh/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +70,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -74,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/5.0.408/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

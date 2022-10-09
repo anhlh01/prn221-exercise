@@ -5,6 +5,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
+=======
+    <Compile Remove="Pages\CandidateProfileManagement\**" />
+    <Content Remove="Pages\CandidateProfileManagement\**" />
+    <EmbeddedResource Remove="Pages\CandidateProfileManagement\**" />
+    <None Remove="Pages\CandidateProfileManagement\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Pages\CandidateProfileManagement\" />
+>>>>>>> 51b0eb22642af7ec527500b6e87d4ce6674a9c9a
     <None Remove="Microsoft.VisualStudio.Web.CodeGeneration" />
     <None Remove="Microsoft.VisualStudio.Web.CodeGeneration.Design" />
     <None Remove="Microsoft.EntityFrameworkCore" />
