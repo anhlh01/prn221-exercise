@@ -1,6 +1,46 @@
 ﻿<Properties StartupConfiguration="{31730A1A-AB80-41D6-A169-78B41EB963EC}|Default">
   <MonoDevelop.Ide.ItemProperties.BusinessObject FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Exercise__LeHongAnh PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Repository FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../DataAccess/Models/CandidateManagementContext.cs">
+    <Files>
+      <File FileName="Pages/Login.cshtml" Line="8" Column="11" />
+      <File FileName="Pages/Login.cshtml.cs" Line="17" Column="1" />
+      <File FileName="Startup.cs" Line="29" Column="41" />
+      <File FileName="../DataAccess/Models/CandidateProfile.cs" Line="9" Column="13" />
+      <File FileName="../DataAccess/Models/CandidateManagementContext.cs" Line="87" Column="30" />
+      <File FileName="appsettings.json" Line="11" Column="48" />
+      <File FileName="../DataAccess/Models/JobPosting.cs" Line="9" Column="13" />
+      <File FileName="../DataAccess/Models/Hraccount.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise_LeHongAnh" expanded="True">
+            <Node name="BusinessObject" expanded="True" />
+            <Node name="DataAccess" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="Exercise_LeHongAnh" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Login.cshtml" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Repository" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Exercise__LeHongAnh PreferredExecutionTarget="/Applications/Safari.app" />
 </Properties>

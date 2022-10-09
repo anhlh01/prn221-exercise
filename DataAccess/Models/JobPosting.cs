@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
 
 #nullable disable
 
 namespace DataAccess.Models
 {
+    [Keyless]
     public partial class JobPosting
     {
         public JobPosting()

@@ -12,5 +12,9 @@ namespace Exercise_LeHongAnh.Pages
         public void OnGet()
         {
         }
+        public void OnPost()
+        {
+
+        }
     }
 }
